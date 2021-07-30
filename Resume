@@ -1,0 +1,62 @@
+{
+	"basics": {
+		"name": "Utkarsh Harish Arya",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88189078?s=400&u=93b97117ec52d0618f661c71599f944e371a8681&v=4",
+		"email": "2020kucp1090@iiitkota.ac.in",
+		"phone": "7017843321",
+		
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering",
+		"location": {
+			"address": "Nainital road",
+			"postalCode": "263139",
+			"city": "Haldwani",
+			"countryCode": "India",
+			"region": "Uttrakhand"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "Utkarsh-1704",
+				"url": "https://www.github.com/Utkarsh-1704/"
+			},
+			{
+				"network": "linkedin",
+				"username": "Utkarsh Arya",
+				"url": "www.linkedin.com/in/utkarsh-arya-1704"
+			},
+			{
+				"network": "Instagram",
+				"username": "_utkarsh_arya",
+				"url": "https://www.instagram.com/_utkarsh_arya/"
+			}
+		]
+	},
+
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor",
+
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	
+	"skills": [{
+		"level": "beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Java"]
+	}],
+	"interests": [{
+		"name": "Music",
+		"keywords": ["guitar"]
+
+        },
+        {
+            "name": "Gaming",
+            "keywords": [
+                "gaming"
+            ]
+	}],
+	"references": []
+}
