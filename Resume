@@ -45,7 +45,7 @@
 	
 	"skills": [{
 		"level": "beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "React", "C/C++", "Java"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java"]
 	}],
 	"interests": [{
 		"name": "Music",
